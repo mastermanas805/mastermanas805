@@ -54,3 +54,4 @@ mastermanas805@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/m
 - [#2509](https://github.com/supabase/auth/pull/2509) &nbsp;`fix(api): create email identity when setting password on OAuth-only user` — fixes [#2085](https://github.com/supabase/auth/issues/2085)
 - [#2511](https://github.com/supabase/auth/pull/2511) &nbsp;`chore(observability): add tests for previously-uncovered helpers` — package coverage 17.7% → 81.4%
 - [#2510](https://github.com/supabase/auth/pull/2510) &nbsp;`chore(utilities): add tests for previously-uncovered helpers`
+
