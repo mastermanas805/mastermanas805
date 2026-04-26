@@ -1,6 +1,10 @@
 # Manas Srivastava
 
-Backend engineer. 4+ years building and operating production Go services at scale, with experience across Kubernetes, distributed systems, zero-downtime database migrations, and observability infrastructure on multi-tenant platforms.
+Backend engineer at **Intuit**. Previously **Sumo Logic** and **Paytm Payments Bank**.
+
+[LinkedIn](https://www.linkedin.com/in/mastermanas/) &nbsp;·&nbsp; mastermanas805@gmail.com
+
+4+ years building and operating production Go services at scale, with experience across Kubernetes, distributed systems, zero-downtime database migrations, and observability infrastructure on multi-tenant platforms.
 
 I write code in the open. The projects and contributions below are the easiest way to see how I work — reproduction-first, narrow-scope changes, and PR descriptions that aim to make a reviewer's job easy.
 
